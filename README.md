@@ -69,8 +69,8 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 <div align="center">
     <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> My name is Nimish Garg</h1>
-    <h3 style="margin: 0;">Crafting smart solutions for modern challenges</h3>
-    <h2 style="margin: 0; line-height: 0.9;">Entrepreneur and developer</h2>
+    <h2 style="margin: 0;">Crafting smart solutions for modern challenges</h2>
+    <h3 style="margin: 0; line-height: 0.9;">Entrepreneur and developer</h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
