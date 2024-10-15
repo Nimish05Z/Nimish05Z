@@ -22,7 +22,7 @@ Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&theme=blueberry&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="nimish05z's GitHub stats" /></a>
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&" alt="nimish05z's GitHub stats" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
 
