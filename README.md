@@ -72,8 +72,8 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 </div>
 
 <div align="center">
-    <h2 style="margin: 0; padding: 0;">Entrepreneur and developer</h2>
-    <h3 style="margin: 0; padding: 0; line-height: 1;">Crafting smart solutions for modern challenges</h3>
+    <h2 style="margin: 0; line-height: 0.9;">Entrepreneur and developer</h2>
+    <h3 style="margin: 0;">Crafting smart solutions for modern challenges</h3>
 </div>
 
 
