@@ -41,18 +41,12 @@
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
-<ul style="list-style-type: none; margin: 0; padding: 0; display: inline-flex;">
-    <li style="margin-right: 0.25rem;">
-        <a href="https://www.buymeacoffee.com/nimish05z">
-            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-        </a>
-    </li>
-    <li style="margin-right: 0.25rem;">
-        <a href="https://www.ko-fi.com/nimish05z">
-            <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-        </a>
-    </li>
-</ul>
+<a href="https://www.buymeacoffee.com/nimish05z">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+</a>
+<a href="https://www.ko-fi.com/nimish05z">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
+</a>
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
