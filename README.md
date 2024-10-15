@@ -43,9 +43,10 @@
 
 ## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Authenticated as 316nmnmeircolzxqtlwtkatkfrvi -->
 
