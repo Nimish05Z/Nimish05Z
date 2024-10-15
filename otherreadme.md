@@ -53,4 +53,40 @@ theme 1
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
+### Badges
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="nimish05z's GitHub stats" /></a>
+
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/nimish05z/YouTube-Playlist-Downloader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/nimish05z/Code-Zoey-Blog-Flask-Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/nimish05z/Shape-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/nimish05z/Earth-Data" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+
+### Support Me
+<ul style="list-style-type: none; margin: 0;">
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nimish05z"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nimish05z"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+</ul>
+
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
