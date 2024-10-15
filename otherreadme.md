@@ -141,3 +141,35 @@ src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-
 
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+
+<h1 align="center">Hi 👋, I'm Nimish Garg</h1>
+
+<h3 align="center">Entrepreneur and developer crafting smart solutions for modern challenges</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish05z" alt="nimish05z" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nimish05z" target="blank"><img src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-badge" alt="nimish05z" /></a> </p>
+
+-   🔭 I’m currently working on **my startup, Market Mate, a data-driven marketing platform connecting wholesalers and retailers through personalized WhatsApp marketing.**
+
+-   🌱 I’m currently learning **advanced Python, React, Automation Frameworks, advanced machine learning techniques and refining my skills in web automation with Selenium.**
+
+-   👯 I’m looking to collaborate on **Automation projects, Web scraping, Problem-solving tools.**
+
+-   🤝 I’m looking for help with **data extraction projects.**
+
+-   👨‍💻 All of my projects are available at [https://github.com/Nimish05Z](https://github.com/Nimish05Z)
+
+-   💬 Ask me about **entrepreneurship, automation, web scraping, or anything in programming.**
+
+-   📫 How to reach me **nimishgrg05@gmail.com**
+
+-   📄 Know about my experiences [https://www.linkedin.com/in/Nimish05Z](https://www.linkedin.com/in/Nimish05Z)
+
+-   ⚡ Fun fact **Avid Chess Player**
+-   
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
