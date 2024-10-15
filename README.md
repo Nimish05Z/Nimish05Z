@@ -1,9 +1,9 @@
 <div align="center">
     <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> My name is Nimish Garg</h1>
-    <h3 style="margin: 0; line-height: 0.9;">Entrepreneur and developer</h3>
+    <h3 style="margin: 0; line-height: 0.9;">Entrepreneur and Developer</h3>
 </div>
 <!-- <h2 style="margin: 0;">Crafting smart solutions for modern challenges</h2> -->
-Crafting smart solutions for modern challenges
+<!-- Crafting smart solutions for modern challenges -->
 
 -   🔭 I’m currently working on **my startup, Market Mate, a data-driven marketing platform connecting wholesalers and retailers through personalized WhatsApp marketing.**
 
@@ -41,11 +41,9 @@ Crafting smart solutions for modern challenges
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
-## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
 <a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
+## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -72,7 +70,6 @@ Crafting smart solutions for modern challenges
 <br />
 <br />
 <br />
-### Support Me
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/nimish05z">
