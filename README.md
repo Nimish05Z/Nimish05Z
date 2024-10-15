@@ -27,11 +27,11 @@ Markdown code snippet:
 
 For custom count (1 ≤ {count} ≤ 10):
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count={5})
 
 For custom width (300 ≤ {width} ≤ 1000):
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&width={500})
 
 For unique tracks :
 
