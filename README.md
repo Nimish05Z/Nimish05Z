@@ -17,7 +17,7 @@ Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt=" " /></a>
 
-<a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=171717&hide_border=false&locale=en" alt="Top Languages" /></a>
+<a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 
