@@ -8,17 +8,17 @@
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish05z" alt="nimish05z" /></a> </p>
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blue-green&no-frame=false&no-bg=false&margin-w=3)
 
 ### ✍️ Random Dev Quote
 
 theme 1
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 
