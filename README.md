@@ -15,15 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 Spotify Recently Played README Generator
+
 Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
+
 Markdown code snippet:
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi)
+
 For custom count (1 ≤ {count} ≤ 10):
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count={count})
+
 For custom width (300 ≤ {width} ≤ 1000):
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&width={width})
+
 For unique tracks :
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&unique={true|1|on|yes})
