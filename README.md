@@ -1,39 +1,43 @@
-
 # 📊 GitHub Stats:
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&" alt="nimish05z's GitHub stats" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
 
-
 <a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish05z" alt="nimish05z" /></a> </p>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blueberry&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blueberry)
 
 ### ✍️ Random Dev Quote
+
 theme 1
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 ### Badges
+
 <b>My GitHub Stats</b>
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
 
 <b>Top Repositories</b>
 
@@ -45,19 +49,16 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 <br /><br /><br /><br /><br /><br /><br />
 
-
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
-
 ### Support Me
+
 <ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nimish05z"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/nimish05z"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
 
-
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
@@ -107,9 +108,7 @@ src="https://img.shields.io/github/followers/nimish05z?logo=github&style=for-the
 src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
 
-
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
 
 <h1 align="center">Hi 👋, I'm Nimish Garg</h1>
 
@@ -136,13 +135,9 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 -   📄 Know about my experiences [https://www.linkedin.com/in/Nimish05Z](https://www.linkedin.com/in/Nimish05Z)
 
 -   ⚡ Fun fact **Avid Chess Player**
--   
+-
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
-
-
-
 
 Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
 
