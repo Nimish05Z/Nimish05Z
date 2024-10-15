@@ -72,9 +72,10 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 </div>
 
 <div align="center">
-    <h2 style="margin: 0;">Entrepreneur and developer</h2>
-    <h3 style="margin: 0; line-height: 1;">Crafting smart solutions for modern challenges</h3>
+    <h2 style="margin: 0; padding: 0;">Entrepreneur and developer</h2>
+    <h3 style="margin: 0; padding: 0; line-height: 1;">Crafting smart solutions for modern challenges</h3>
 </div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
