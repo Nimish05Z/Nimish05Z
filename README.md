@@ -18,35 +18,19 @@
 
 ### 🔝 Top Contributed Repo
 
-## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=10&theme=dark&combine_all_yearly_contributions=true)
-
 ## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
-## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
-
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/nimish05z/YouTube-Playlist-Downloader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/nimish05z/Code-Zoey-Blog-Flask-Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/nimish05z/Shape-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/nimish05z/Earth-Data" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br /><br /><br />
-
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+<br />
 
 ### Support Me
 
@@ -56,6 +40,19 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 </ul>
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+<ul style="list-style-type: none; margin: 0; padding: 0; display: inline-flex;">
+    <li style="margin-right: 0.25rem;">
+        <a href="https://www.buymeacoffee.com/nimish05z">
+            <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+        </a>
+    </li>
+    <li style="margin-right: 0.25rem;">
+        <a href="https://www.ko-fi.com/nimish05z">
+            <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+        </a>
+    </li>
+</ul>
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
