@@ -72,9 +72,9 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 </div>
 
 <h2 align="center">Entrepreneur and developer </h2>
-<h3 align="center">Crafting smart solutions for modern challenges</h3>
 
 <div align="center">
+	<h3 align="center">Crafting smart solutions for modern challenges</h3>
     <h2 style="margin: 0;">Entrepreneur and developer</h2>
     <h3 style="margin: 0;">Crafting smart solutions for modern challenges</h3>
 </div>
