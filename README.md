@@ -14,15 +14,17 @@
 
 ### ✍️ Random Dev Quote
 
-theme 1
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 
 ## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
+## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+
+## ![](https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
