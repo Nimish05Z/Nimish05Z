@@ -13,15 +13,8 @@ Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6" /></a>
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z" /></a>
+
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&theme=blueberry&hide_border=false" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
