@@ -35,6 +35,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
     ### Support Me
 
@@ -47,13 +59,7 @@
     </a>
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =15x15) My name is Nimish Garg
-
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =100x100) My name is Nimish Garg
-
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =50x50) My name is Nimish Garg
-
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif =250x250) My name is Nimish Garg
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" /> My name is Nimish Garg
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nimish Garg
 
