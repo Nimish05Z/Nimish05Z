@@ -14,7 +14,7 @@ Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=14b8a6&background=171717&ring=84cc16&fire=84cc16&currStreakNum=14b8a6&currStreakLabel=84cc16&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6" /></a>
 
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=82aaff&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
 
 
 
