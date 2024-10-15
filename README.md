@@ -72,8 +72,9 @@ src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 <div align="center">
-    # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> I'm Nimish Garg
+    <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> My name is Nimish Garg</h1>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Nimish Garg</h1>
 
