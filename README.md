@@ -74,6 +74,11 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 <h2 align="center">Entrepreneur and developer </h2>
 <h3 align="center">Crafting smart solutions for modern challenges</h3>
 
+<div align="center">
+    <h2 style="margin: 0;">Entrepreneur and developer</h2>
+    <h3 style="margin: 0;">Crafting smart solutions for modern challenges</h3>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nimish05z" target="blank"><img src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-badge" alt="nimish05z" /></a> </p>
