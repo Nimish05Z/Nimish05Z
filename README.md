@@ -35,8 +35,6 @@
 <br />
 <br />
 
-
-
 ### Support Me
 
 <div align="center">
@@ -47,7 +45,6 @@
         <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
     </a>
 </div>
-
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> My name is Nimish Garg
 
@@ -73,6 +70,10 @@ src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-
 /></a>
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+<div align="center">
+    # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" /> I'm Nimish Garg
+</div>
 
 <h1 align="center">Hi 👋, I'm Nimish Garg</h1>
 
