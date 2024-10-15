@@ -1,40 +1,17 @@
-Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
-
-<!-- For custom width : &width={width} (300 ≤ {width} ≤ 1000) -->
-<!-- For custom count : &count={count} (1 ≤ {count} ≤ 10) -->
-<!-- For unique tracks : &unique={true|1|on|yes} (default is false) -->
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count=10&unique=true&width=1000)
-
-
-
-
-
-
-
-
-
-
-
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nimish05z&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&theme=blueberry&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&" alt="nimish05z's GitHub stats" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
 
-<a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
 <a href="https://github.com/nimish05z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" /></a>
 
+<a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
 
-
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish05z" alt="nimish05z" /></a> </p>
 
 
 ## 🏆 GitHub Trophies
@@ -140,8 +117,6 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimish05z&label=Profile%20views&color=0e75b6&style=flat" alt="nimish05z" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimish05z" alt="nimish05z" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nimish05z" target="blank"><img src="https://img.shields.io/twitter/follow/nimish05z?logo=twitter&style=for-the-badge" alt="nimish05z" /></a> </p>
 
 -   🔭 I’m currently working on **my startup, Market Mate, a data-driven marketing platform connecting wholesalers and retailers through personalized WhatsApp marketing.**
@@ -164,3 +139,15 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
 -   
 
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+
+
+
+
+Authenticated as 316nmnmeircolzxqtlwtkatkfrvi
+
+<!-- For custom width : &width={width} (300 ≤ {width} ≤ 1000) -->
+<!-- For custom count : &count={count} (1 ≤ {count} ≤ 10) -->
+<!-- For unique tracks : &unique={true|1|on|yes} (default is false) -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count=10&unique=true&width=1000)
