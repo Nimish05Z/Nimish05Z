@@ -12,13 +12,8 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blueberry&no-frame=true&no-bg=false&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blueberry)
+![](https://github-profile-trophy.vercel.app/?username=nimish05z&theme=blue-green&no-frame=false&no-bg=false&margin-w=3)
 
 ### ✍️ Random Dev Quote
 
