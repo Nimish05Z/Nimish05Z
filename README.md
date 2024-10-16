@@ -47,7 +47,6 @@
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimish05z&bg_color=171717&color=14b8a6&line=0891b2&point=14b8a6&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="" /></a>
 
-
 <!-- Authenticated as 316nmnmeircolzxqtlwtkatkfrvi -->
 
 <!-- For custom width : &width={width} (300 ≤ {width} ≤ 1000) -->
@@ -87,3 +86,5 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nimish05Z/Nimish05Z/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
