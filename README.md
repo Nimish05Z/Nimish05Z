@@ -93,10 +93,14 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-<!-- Sub part minimizable -->
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2013%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
 
 <details>
-  <summary>Hello</summary>
+  <summary>TIC-TAC-TOE Game</summary>
   
   
 <a name="top"></a>
