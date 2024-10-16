@@ -93,11 +93,11 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-<!--START_SECTION:waka-->
+[![Nimish05Z's GitHub | Stats](https://stats.quira.sh/Nimish05Z/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2013%20mins-blue)
+[![Nimish05Z's GitHub | Languages Over Time](https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
+[![Nimish05Z's GitHub | Topics Over Time](https://stats.quira.sh/Nimish05Z/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
 
 <details>
   <summary>TIC-TAC-TOE Game</summary>
