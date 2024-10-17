@@ -52,9 +52,7 @@
 
 <hr>
 
-
 <div style="display: flex; justify-content: space-between;">
-
 
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
     <img src="https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark" alt="Nimish05Z's GitHub | Languages Over Time" width="400" />
@@ -65,34 +63,25 @@
   </a>
 </div>
 
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
     <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="300" />
   </a>
-
+	
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" width="540" />
 </div>
 
+<hr>
 
-
-
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
-    <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="540" />
-  </a>
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nimish05Z/Nimish05Z/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
 </div>
+
 
 
 
 
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
