@@ -72,7 +72,7 @@
     <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="300" />
   </a>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" width="300" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" width="540" />
 </div>
 
 
@@ -80,7 +80,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
-    <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="300" />
+    <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="540" />
   </a>
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
