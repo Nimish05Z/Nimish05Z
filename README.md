@@ -91,10 +91,10 @@
 
 <div width="100%" align="center">
 	<a href="https://github.com/nimish05z/YouTube-Playlist-Downloader" align="center">
-		<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
+		<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 	<a href="https://github.com/nimish05z/Code-Zoey-Blog-Flask-Python" align="center">
-		<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
+		<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 </div>
 
@@ -102,9 +102,9 @@
 
 <div width="100%" align="center">
 	<a href="https://github.com/nimish05z/Shape-Generator" align="rigth">
-		<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
+		<img align="rigth" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 	<a href="https://github.com/nimish05z/Earth-Data" align="left">
-		<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
+		<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 </div>
