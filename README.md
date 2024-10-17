@@ -1,107 +1,226 @@
 Development Tools
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-
+<div align="left">
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="JetBrains logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=idea" height="30" alt="IntelliJ IDEA logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
-
+<img width="12" />
 </div>
 
 Programming Languages
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=clojure" height="30" alt="clojure logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo" />
-
+<div align="left"> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=clojure" height="30" alt="clojure logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" height="30" alt="ClojureScript logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust logo" />
-
+<img width="12" />
 </div>
 
 Web Development
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-
+<div align="left"> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /> 
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=sass" height="30" alt="Sass logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="30" alt="Vue.js logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="Webpack logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" height="30" alt="Puppeteer logo" />
-
+<img width="12" />
 </div>
 
 Databases
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-
+<div align="left">
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="30" alt=".NET logo" />
- </div>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+<img width="12" />
+</div>
 
 Cloud & DevOps
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" />
-
+<div align="left">
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo" />
+<img width="12" /> 
+<img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="Jenkins logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="DigitalOcean logo" />
-
+<img width="12" />
 </div>
 
 Mobile Development
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=android" height="30" alt="android logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" /> </div>
+<div align="left">
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo" /> 
+<img width="12" />
+</div>
 
 Frameworks & Libraries
 
-<div align="left"> <img width="12" /> <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="Django logo" />
+<div align="left"> 
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="NestJS logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="Nuxt.js logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=qt" height="30" alt="Qt logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="Three.js logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
-
+<img width="12" />
 </div>
 
 Operating Systems
 
 <div align="left">
-
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows 8 logo" />
+<img width="12" />
 
 </div>
 
 Others
 
 <div align="left"> 
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="Slack logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="Yarn logo" />
+<img width="12" />
 </div>
 
 Datascience and ML
 
 <div align="left"> 
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="Scikit-learn logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/>
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle logo" />
+<img width="12" />
 </div>
 
 <br clear="both">
