@@ -73,9 +73,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" width="540" />
 </div>
 
-<hr>
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<hr>
 
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
@@ -86,3 +86,25 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+	<a href="https://github.com/nimish05z/YouTube-Playlist-Downloader" align="left">
+		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
+	</a>
+	<a href="https://github.com/nimish05z/Code-Zoey-Blog-Flask-Python" align="right">
+		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
+	</a>
+</div>
+
+<br /><br />
+
+<div width="100%" align="center">
+	<a href="https://github.com/nimish05z/Shape-Generator" align="left">
+		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
+	</a>
+	<a href="https://github.com/nimish05z/Earth-Data" align="right">
+		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
+	</a>
+</div>
