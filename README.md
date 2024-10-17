@@ -54,19 +54,20 @@
 
 
 <div style="display: flex; justify-content: space-between;">
+
+
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
-    <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="300" />
+    <img src="https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark" alt="Nimish05Z's GitHub | Languages Over Time" width="440" />
   </a>
 
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
-    <img src="https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark" alt="Nimish05Z's GitHub | Languages Over Time" width="400" />
-  </a>
-
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
-    <img src="https://stats.quira.sh/Nimish05Z/topics-over-time?theme=dark" alt="Nimish05Z's GitHub | Topics Over Time" width="400" />
+    <img src="https://stats.quira.sh/Nimish05Z/topics-over-time?theme=dark" alt="Nimish05Z's GitHub | Topics Over Time" width="440" />
   </a>
 </div>
 
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z">
+    <img src="https://stats.quira.sh/Nimish05Z/github?theme=dark" alt="Nimish05Z's GitHub | Stats" width="300" />
+  </a>
 
 
 
