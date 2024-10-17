@@ -43,6 +43,20 @@
   </a>
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <a href="http://www.github.com/nimish05z">
+    <img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938" alt="nimish05z's GitHub stats" width="200" />
+  </a>
+
+  <a href="https://www.github.com/nimish05z">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" width="200" />
+  </a>
+  
+  <a href="http://www.github.com/nimish05z">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" width="200" />
+  </a>
+</div>
+
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&" alt="nimish05z's GitHub stats" /></a>
 
 <a href="http://www.github.com/nimish05z"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" /></a>
