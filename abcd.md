@@ -1,10 +1,6 @@
 
 
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 <!-- Authenticated as 316nmnmeircolzxqtlwtkatkfrvi -->
@@ -53,11 +49,7 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-[![Nimish05Z's GitHub | Stats](https://stats.quira.sh/Nimish05Z/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
 
-[![Nimish05Z's GitHub | Languages Over Time](https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
-
-[![Nimish05Z's GitHub | Topics Over Time](https://stats.quira.sh/Nimish05Z/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
 
 <details>
   <summary>TIC-TAC-TOE Game</summary>

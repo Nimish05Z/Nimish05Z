@@ -50,4 +50,19 @@
 	</div>
 </div>
 
+
+[![Nimish05Z's GitHub | Stats](https://stats.quira.sh/Nimish05Z/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
+
+[![Nimish05Z's GitHub | Languages Over Time](https://stats.quira.sh/Nimish05Z/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
+
+[![Nimish05Z's GitHub | Topics Over Time](https://stats.quira.sh/Nimish05Z/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nimish05Z)
+
+
+
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
