@@ -33,10 +33,10 @@
 <div align="center">
 	<div style="align: center; display: flex; justify-content: space-between;">
 		<a href="http://www.github.com/nimish05z">
-			<img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938" alt="nimish05z's GitHub stats" width="400" />
+			<img src="https://github-readme-stats.vercel.app/api?username=nimish05z&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938" alt="nimish05z's GitHub stats" width="410" />
 		</a>
     	<a href="https://www.github.com/nimish05z">
-    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" width="355" />
+    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish05z&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=82aaff&text_color=26d79d&icon_color=0891b2&bg_color=242938" alt="Top Languages" width="360" />
     	</a>
     </div>
 </div>
