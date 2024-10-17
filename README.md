@@ -98,7 +98,12 @@
 		<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 </div>
-<br>
+
+<div width="100%" align="center">
+	<a width="6%" align="center">-</a>
+	<a width="6%" align="center">-</a>
+</div>
+
 <div width="100%" align="center">
 	<a href="https://github.com/nimish05z/Shape-Generator" align="center">
 		<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
