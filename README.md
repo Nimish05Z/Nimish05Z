@@ -44,9 +44,9 @@
 <div align="center">
 	<div style="align: center; display: flex; justify-content: space-between;">
 		<a href="http://www.github.com/nimish05z">
-			<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" width="497" />
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=nimish05z&stroke=82aaff&background=242938&ring=14b8a6&fire=e34c26&currStreakNum=e34c26&currStreakLabel=14b8a6&sideNums=82aaff&sideLabels=82aaff&dates=82aaff&hide_border=false" width="490" />
 		</a>
-		<img src="https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Contributor Stats" width="350" />
+		<img src="https://github-contributor-stats.vercel.app/api?username=nimish05z&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Contributor Stats" width="348" />
 	</div>
 </div>
 
