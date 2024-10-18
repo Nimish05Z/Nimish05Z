@@ -6,28 +6,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count=10&unique=true&width=1000)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-	<a href="https://github.com/nimish05z/YouTube-Playlist-Downloader" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=YouTube-Playlist-Downloader&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
-	</a>
-	<a href="https://github.com/nimish05z/Code-Zoey-Blog-Flask-Python" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Code-Zoey-Blog-Flask-Python&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
-	</a>
-</div>
-
-<br /><br />
-
-<div width="100%" align="center">
-	<a href="https://github.com/nimish05z/Shape-Generator" align="left">
-		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Shape-Generator&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
-	</a>
-	<a href="https://github.com/nimish05z/Earth-Data" align="right">
-		<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=84cc16&text_color=14b8a6&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" />
-	</a>
-</div>
-
 <br />
 <br />
 <br />

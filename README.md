@@ -100,9 +100,9 @@
 </div>
 
 <div width="100%" align="center">
-	<a align="left">|</a>
+	<!-- <a align="left" width="">|</a> -->
 	<a align="center">x</a>
-	<a align="right">|</a>
+	<!-- <a align="right">|</a> -->
 </div>
 
 <div width="100%" align="center">
@@ -114,3 +114,19 @@
 		<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nimish05z&repo=Earth-Data&title_color=82aaff&text_color=27e8a7&icon_color=0891b2&bg_color=242938&hide_border=false&locale=en" />
 	</a>
 </div>
+
+<hr>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count=10&unique=true&width=1000)
+
+<hr>
+
+<div align="center">
+	<a href="https://www.buymeacoffee.com/nimish05z">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+	</a>
+	<a href="https://www.ko-fi.com/nimish05z">
+		<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
+	</a>
+</div>
+
