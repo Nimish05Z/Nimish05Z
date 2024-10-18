@@ -105,6 +105,7 @@
 <img src="https://skillicons.dev/icons?i=qt" height="30" alt="Qt logo" />
 <img width="12" />
 </div>
+<br>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" /> 
 <img width="12" /> 
@@ -181,6 +182,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="Jenkins logo" />
 <img width="12" />
 </div>
+<br>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
 <img width="12" />
@@ -190,6 +192,7 @@
 <img width="12" /> 
 <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
 </div>
+<br>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
 <img width="12" /> 
@@ -251,6 +254,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
+<br>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
 <img width="12" /> 
@@ -283,6 +287,7 @@
 <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo" />
 <img width="12" />
 </div>
+<br>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
 <img width="12" />
