@@ -78,7 +78,6 @@
 # What I've learned, What I'm learning, and What I will learn ↓↓↓
 
 <div align="left">
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium logo" />
@@ -192,7 +191,6 @@
 <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo" />
 </div>
 <div align="left">
-<img width="12" /> 
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
 <img width="12" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" />
@@ -254,7 +252,6 @@
 <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
 <div align="left">
-<img width="12" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
 <img width="12" /> 
 <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" /> 
@@ -287,7 +284,6 @@
 <img width="12" />
 </div>
 <div align="left">
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
