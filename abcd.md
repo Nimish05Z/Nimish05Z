@@ -4,25 +4,6 @@
 <!-- For custom count : &count={count} (1 ≤ {count} ≤ 10) -->
 <!-- For unique tracks : &unique={true|1|on|yes} (default is false) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316nmnmeircolzxqtlwtkatkfrvi&count=10&unique=true&width=1000)
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<div align="center">
-	<a href="https://www.buymeacoffee.com/nimish05z">
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-	</a>
-	<a href="https://www.ko-fi.com/nimish05z">
-		<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
-	</a>
-</div>
-
 <details>
   <summary>TIC-TAC-TOE Game</summary>
   
