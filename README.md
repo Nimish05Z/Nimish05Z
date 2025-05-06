@@ -6,7 +6,7 @@
 
 -   🔭 I’m currently working on **my startup, Market Mate, a data-driven marketing platform connecting wholesalers and retailers through personalized WhatsApp marketing.**
 
--   🌱 I’m currently learning **advanced Python, React, Automation Frameworks, advanced machine learning techniques and refining my skills in web automation with Selenium.**
+-   🌱 I’m currently learning **advanced Python, React, Automation Frameworks, advanced machine learning techniques, and refining my skills in web automation with Selenium.**
 
 -   👯 I’m looking to collaborate on **Automation projects, Web scraping, Problem-solving tools.**
 
@@ -21,6 +21,8 @@
 -   📄 Know about my experiences [https://www.linkedin.com/in/Nimish05Z](https://www.linkedin.com/in/Nimish05Z)
 
 -   ⚡ **Avid Chess Player**
+  
+-   Checkout my Profile - [PROFILE](https://nimish05z.github.io/Profile/)
 
 [![](https://visitcount.itsvg.in/api?id=nimish05z&icon=0&color=0)](https://visitcount.itsvg.in)
 
