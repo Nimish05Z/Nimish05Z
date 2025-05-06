@@ -20,7 +20,7 @@
 
 -   📄 Know about my experiences [https://www.linkedin.com/in/Nimish05Z](https://www.linkedin.com/in/Nimish05Z)
 
--   ⚡ **Avid Chess Player**
+-   ⚡ **Avid Chess Player** - [Chess ID](https://www.chess.com/member/nimish_05z)
   
 -   Checkout my Profile - [PROFILE](https://nimish05z.github.io/Profile/)
 
